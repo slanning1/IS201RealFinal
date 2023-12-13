@@ -1,0 +1,57 @@
+body{
+    background-color : black;
+
+    
+}
+img{
+    width: 50%;
+    height: 50%;
+    border: 2px solid white;
+    padding: 2px;
+    
+}
+
+    
+.footer{
+    z-index: 1;
+    position: fixed;
+    bottom: 0px;
+    display: block;
+    text-align: center;
+    background-color: rgb(80, 187, 197);
+    color : black;
+}
+.common{
+    position: absolute;
+}
+
+.header{
+    top: 0px;
+    color: white;
+    text-align: center;
+    display: block;
+}
+.mainbody{
+    top: 400px;
+    color: white;
+    font-family: inherit; 
+}
+h1{
+    color: white;
+    font-family: inherit;
+    font-size: xx-large;
+}
+h2{
+    color: white;
+    font-family: inherit;
+    font-size:x-large;
+}
+h3{
+    color: rgb(185, 182, 182);
+    font-family: inherit;
+    font-size: medium;
+}
+.linkcolor{
+color:rgb(80, 187, 197);
+font-size: large;
+}
